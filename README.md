@@ -8,7 +8,7 @@ https://mrnmkmn.github.io/helloworld_nako/
 なでしこv3（ https://nadesi.com ）
 
 # AUTHOR
-* なまけもの（ https://twitter.com/mrnmkmn ）
+なまけもの（ https://twitter.com/mrnmkmn ）
 
 # LICENSE
 "helloworld_nako" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
